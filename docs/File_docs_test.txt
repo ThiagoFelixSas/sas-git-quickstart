@@ -13,3 +13,4 @@ Validar o workflow completo:
 2. Clone de Repositório
 3. Trabalho em Feature Branch
 4. Merge e Push para Main
+5. Teste de Push com Lucas. 
