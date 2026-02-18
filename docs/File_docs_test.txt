@@ -15,3 +15,4 @@ Validar o workflow completo:
 4. Merge e Push para Main
 5. Teste de Push com Lucas. 
 6. Teste de Push com Thiago.
+7. Teste de Push com Nicole.
