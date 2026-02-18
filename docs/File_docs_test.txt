@@ -1,0 +1,15 @@
+# Projeto: Integração SAS Viya & Git
+
+Este repositório faz parte do treinamento prático de **Data Science e MLOps**.
+
+## Estrutura do Projeto
+- **/sas**: Programas e códigos de extração (.sas)
+- **/python**: Modelos e scripts de automação (.py)
+- **/docs**: Documentação técnica e guias de processo
+
+## Objetivo
+Validar o workflow completo:
+1. Configuração de Credenciais
+2. Clone de Repositório
+3. Trabalho em Feature Branch
+4. Merge e Push para Main
