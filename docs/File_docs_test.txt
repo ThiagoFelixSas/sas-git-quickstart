@@ -14,3 +14,4 @@ Validar o workflow completo:
 3. Trabalho em Feature Branch
 4. Merge e Push para Main
 5. Teste de Push com Lucas. 
+6. Teste de Push com Thiago.
